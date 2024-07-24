@@ -1,4 +1,4 @@
-# WEB102 Prework - *CrowdQuest*
+# WEB102 Prework - _CrowdQuest_
 
 Submitted by: **Frankelly Guzman**
 
@@ -10,14 +10,14 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-* [X] The introduction section explains the background of the company and how many games remain unfunded.
-* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -26,7 +26,9 @@ Here's a walkthrough of implemented features:
 <img src='assets\CodePath_Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif 
+
+GIF created with ScreenToGif
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -40,7 +42,7 @@ Learning both the reduce and filter methods was pretty simple for me. It began t
 
 ## License
 
-    Copyright 2023 Frankelly Guzman
+    Copyright 2024 Frankelly Guzman
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
